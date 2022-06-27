@@ -1,4 +1,4 @@
-# Neural-Network-implementation
+# Neural-Network-Implementation
 This project is about the implementation of a neural network by using the MNIST Handwritten Digits data set. It will predict handwritten digits using 
 Keras.
 ## Data set
